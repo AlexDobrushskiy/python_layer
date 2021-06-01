@@ -54,6 +54,6 @@ sklearn==0.0
 tensorboard==1.8.0
 tensorflow==1.8.0
 tqdm==4.23.3
-urllib3==1.22
+urllib3==1.26.5
 zstandard==0.9.1
 python-prctl==1.7
