@@ -15,7 +15,7 @@ fs==2.0.21
 future==0.17.1
 gast==0.2.0
 h5py==2.8.0
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 Jinja2==2.10
 Keras==2.1.6
