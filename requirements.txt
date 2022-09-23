@@ -32,7 +32,7 @@ pandas==0.23.0
 pathlib==1.0.1
 pefile==2018.8.8
 Pillow==5.1.0
-protobuf==3.6.1
+protobuf==3.18.3
 pyasn1==0.4.4
 pycparser==2.18
 PyInstaller==3.4
