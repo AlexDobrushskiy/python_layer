@@ -4,7 +4,7 @@ appdirs==1.4.3
 astor==0.7.1
 bleach==1.5.0
 cefpython3==66.0
-certifi==2018.4.16
+certifi==2022.12.7
 cffi==1.11.5
 cgroupspy==0.1.6
 chardet==3.0.4
